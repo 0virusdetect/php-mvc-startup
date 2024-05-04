@@ -31,4 +31,9 @@ I made this project just for fun, it allows you to create nice and simple PHP MV
 
     RewriteEngine on
 
+## **Databse setup**
+* Create a Database named mvc
+* Then copy and paste the mvc.sql File Data into sql Query 
+* Then change the Username and Password in config/database.php file
+
 **-Thankyou**
