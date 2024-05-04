@@ -9,12 +9,11 @@ I'm a software engineer who is passionate about making contributing to open-sour
 # I have created a PHP Startup File using MVC Sturcture
 I made this project just for fun, it allows you to create nice and simple PHP MVC Structured files that you can copy/paste and use in your Project.
 
-Skills: HTML,CSS,PHP
+**Skills :** HTML,CSS,PHP
 
 
 # For Linux users
-# Go to Directory 
-/etc/apache2/sites-available/000-default.conf
+**Go to Directory -** /etc/apache2/sites-available/000-default.conf
 
     <Directory /var/www/html>
     Options Indexes FollowSymLinks MultiViews
@@ -22,24 +21,15 @@ Skills: HTML,CSS,PHP
     Require all granted
     </Directory>
 
-add the above content in that file
+**Add the above code in that File**
 
-Then,restart your apache server using - sudo systemctl restart apache2
+**Then,Restart your apache Server** 
 
-  create a .htaccess file in 
-/var/www/html/.htaccess
-add these lines 
-RewriteEngine on
+    sudo systemctl restart apache2
 
-download zip and extract in /var/www/html/
-run the project 
+## Create a .htaccess file in 
+**Go to Directory -** /var/www/html/.htaccess
 
-<-------- running this online as a root directory ----------->
+**then, add these lines**
 
-then add .htaccess file in root folder 
-
-then run your website
-
-
-
-
+    RewriteEngine on
