@@ -1,18 +1,15 @@
-### Hi there , My Name is Abhishek
+## **Hi there , My Name is Abhishek**
 I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community.
-## Skills and Experience
+## **Skills and Experience**
 * HTML
 * CSS
 * PHP
 
 
-### I have created a PHP Startup File using MVC Sturcture
+## **I have created a PHP Startup File using MVC Sturcture**
 I made this project just for fun, it allows you to create nice and simple PHP MVC Structured files that you can copy/paste and use in your Project.
 
-**Skills :** HTML,CSS,PHP
-
-
-### For Linux users
+## **For Linux users**
 **Go to Directory -** /etc/apache2/sites-available/000-default.conf
 
     <Directory /var/www/html>
@@ -27,9 +24,11 @@ I made this project just for fun, it allows you to create nice and simple PHP MV
 
     sudo systemctl restart apache2
 
-### Create a .htaccess file in 
+## **Create a .htaccess file**
 **Go to Directory -** /var/www/html/.htaccess
 
 **then, add these lines**
 
     RewriteEngine on
+
+**Thankyou-**
