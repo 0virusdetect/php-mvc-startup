@@ -83,11 +83,11 @@ Once you have the code on your local machine, you can run it effortlessly. Use t
 
 to run this you need to remove public in header.php and footer.php files
 
-header.php in layout folder
+header.php in layout folder(simply remove public/)
 
 	<link rel="stylesheet" href="public/css/style.css">
 
-footer.php in layout folder
+footer.php in layout folder(simply remove public/)
 
 	<script src="public/js/script.js"></script>
 	
