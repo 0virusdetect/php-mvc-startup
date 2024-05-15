@@ -81,6 +81,8 @@ Once you have the code on your local machine, you can run it effortlessly. Use t
 
     php -S localhost:2343
 
+to run this you need to remove public in header.php and footer.php files
+
 or
 
     localhost/php-mvc-startup/
