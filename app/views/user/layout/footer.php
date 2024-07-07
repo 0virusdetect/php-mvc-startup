@@ -1,6 +1,6 @@
 <footer>
     <p>footer</p>
 </footer>
-<script src="public/js/script.js"></script>
+<script src="<?php echo $public;?>js/script.js"></script>
 </body>
 </html>
